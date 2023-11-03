@@ -1,0 +1,5 @@
+Zadejte kreditni urok [%]:
+Zadejte debetni urok [%]:
+Zadejte transakce:
+Zustatek: 0.00
+
