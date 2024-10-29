@@ -1,2 +1,3 @@
 # BIK-PA1
-This is the output from my BIK-PA1 class. I got 37.62/100 points. Unable to pass the final exam, Grade F.
+
+This is the output from my BIK-PA1 class. I got 37.62/100 points. Unable to pass the final exam. Grade F.
